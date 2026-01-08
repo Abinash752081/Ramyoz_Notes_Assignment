@@ -49,7 +49,7 @@ This is a full-stack web app where you can:
    - Check the `.env.local` file
    - Update `MONGODB_URI` if you're using MongoDB Atlas:
    ```
-   MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/notes-app
+   MONGODB_URI=*****
    ```
 
 4. **Run the app**:
